@@ -24,4 +24,3 @@ def all_lent_books(library_book):
 
     return library_book
 
-    

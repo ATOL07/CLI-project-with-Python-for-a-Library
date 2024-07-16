@@ -1,35 +1,33 @@
-Title: C++
-Author(s): Mark
-Year Published: 2021
-Price: 1300.0
-Available quantity: 34
-Pages: 1200
-ISBN: 233-567
-Genres: Programming
-Borrowers:
-- Hamim
-- Atol
-Status: Updated
--------------------
-Title: Python Programming
-Author(s): Twin
-Year Published: 2012
-Price: 456.0
-Available quantity: 9
-Pages: 459
-ISBN: 234-897
+Title: Java Script
+Author(s): Mark Twin
+Year Published: 2022
+Price: 234.0
+Available quantity: 10
+Pages: 234
+ISBN: 12-34-78
 Genres: Coding
+Borrowers:
+- Hosen
+-------------------
+Title: C++
+Author(s): Steve
+Year Published: 2002
+Price: 222.0
+Available quantity: 33
+Pages: 678
+ISBN: 222-098
+Genres: Programming
 Borrowers: None
 Status: Removed
 -------------------
-Title: JavaScript
+Title: Java Crash
 Author(s): Alen
-Year Published: 2003
-Price: 2345.0
-Available quantity: 3
-Pages: 1200
-ISBN: 23-098
-Genres: Coding, Programming
+Year Published: 2001
+Price: 234.0
+Available quantity: 22
+Pages: 300
+ISBN: 333-999
+Genres: Coding
 Borrowers: None
 Status: This is a newly arrived book!!
 -------------------
